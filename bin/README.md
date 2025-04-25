@@ -9,11 +9,11 @@ This is the original version of the binaries. The `testapp` and `testsuite` prog
 - [testsuite](#testsuite): Tests the default version of each module in a profile
 - [testsuite_forall](#testsuite_forall): Tests all versions of each module in a profile
 
-## `testapp`
+### `testapp`
 
 This program runs a test of the default version of a single module.
 
-### Syntax
+#### Syntax
 ```
 Usage:  testapp [options] [tests ...] [-o sbatch_options ...]
 
@@ -41,7 +41,7 @@ Options:
   Suggested usage:  testapp <testname>
 ```
 
-### Available tests
+#### Available tests
 
 By default, `./testapp` will search for available tests stored in the relative path `testsuite-main/testapps/`.
 ```
@@ -141,7 +141,7 @@ Every tests contains at least three files.
 
 There may be additional files such as input files or includes.
 
-### Updating tests or developing new tests
+#### Updating tests or developing new tests
 
 To update testapp (`matlab` in the below example), the first step is to navigate to the `testapps` folder and locate the module directory. 
 ```
@@ -149,20 +149,20 @@ $ cd testapps/matlab
 ```
 In most cases, we can need to edit `test.module`, `test.out` and `test.err`. If the modified test runs without error and you want the change deployed for everyone, then you can upload it to this github repo, and create a pull request.
 
-## `testapp_forall`
+### `testapp_forall`
 
 This program runs a test of all versions of a single module.
 
 It runs `testapp <module_name>` for each available version obtained with `module av <module_name>`. The test executes for all versions regardless of whether it fails for some of them. The output to the terminal is saved as two separate `.log` files in the test folder: one for stdout and one for stderr. Each `.log` file is named using a timestamp of when the `testapp_forall` program began to execute.
 
-### Syntax
+#### Syntax
 ```
 Usage:  testapp_forall [module_name] [redhat_version]
 ```
 
 This is available for each package that has a test written. Red Hat versions this has been tested on are 7 and 8.
 
-## `testsuite`
+### `testsuite`
 
 This program will automatically send many jobs to the cluster and periodically print the `PASS/FAIL` results as each test is run. The default version of each module will be used.
 
@@ -182,7 +182,7 @@ Options:
                       (this option must come last, after the profile names)
 ```
 
-### Available profiles
+#### Available profiles
 
 All profiles are stored in `testsuite/profiles/`.
 ```
@@ -246,7 +246,7 @@ C rclone 9 10
 C sqlite 9 10
 ```
 
-### Basic `testsuite` run
+#### Basic `testsuite` run
 
 The simplest way to launch `testsuite` is to run it with no arguments.
 ```
@@ -294,14 +294,14 @@ PASS    rclone                       10      0      0     10
 PASS    sqlite                       10      0      0     10
 ```
 
-### Submit jobs with other options
+#### Submit jobs with other options
 
 By default, all tests will be submitted to `batch` partition, but we can use other partitions to submit jobs by specifying the `-o` option in testsuite. `-o` allows you to add any slurm (sbatch/srun) options at the end of the testsuite command. The following command submits `testsuite` jobs in the `preempt` partition.
 ```
 $ ./testsuite -o -p preempt 
 ```
 
-## `testsuite_forall`
+### `testsuite_forall`
 
 This program runs a test of all versions of each module in a given profile. `options` and `-o SLURM options` are currently unavailable for `testsuite_forall`.
 
