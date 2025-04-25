@@ -1,0 +1,7 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+seq3            ACGTTGCTAGCTAGCTG
+seq1            ACGTAGCTAGCTAGCTA
+seq2            ACGTA-CTAGCTAGCTC
+                ****  ********** 

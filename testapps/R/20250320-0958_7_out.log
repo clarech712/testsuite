@@ -1,0 +1,1504 @@
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541407 on Submitted batch job 12541407.
+Waiting for job to complete...............done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541407/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541424 on Submitted batch job 12541424.
+Waiting for job to complete.......done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541424/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541433 on Submitted batch job 12541433.
+Waiting for job to complete.......done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541433/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541443 on Submitted batch job 12541443.
+Waiting for job to complete...............done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541443/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541455 on Submitted batch job 12541455.
+Waiting for job to complete.......done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541455/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541464 on Submitted batch job 12541464.
+Waiting for job to complete.......done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541464/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541469 on Submitted batch job 12541469.
+Waiting for job to complete...............done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541469/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541476 on Submitted batch job 12541476.
+Waiting for job to complete.......done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541476/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541483 on Submitted batch job 12541483.
+Waiting for job to complete.......done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541483/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541489 on Submitted batch job 12541489.
+Waiting for job to complete...............done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541489/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541497 on Submitted batch job 12541497.
+Waiting for job to complete.......done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541497/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541501 on Submitted batch job 12541501.
+Waiting for job to complete.......done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541501/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541504 on Submitted batch job 12541504.
+Waiting for job to complete...............done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541504/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541519 on Submitted batch job 12541519.
+Waiting for job to complete.......done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541519/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541529 on Submitted batch job 12541529.
+Waiting for job to complete......done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541529/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541532 on Submitted batch job 12541532.
+Waiting for job to complete..............done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541532/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541543 on Submitted batch job 12541543.
+Waiting for job to complete........done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541543/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541554 on Submitted batch job 12541554.
+Waiting for job to complete.......done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541554/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541562 on Submitted batch job 12541562.
+Waiting for job to complete..............done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541562/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541571 on Submitted batch job 12541571.
+Waiting for job to complete........done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541571/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541578 on Submitted batch job 12541578.
+Waiting for job to complete.....done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541578/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541585 on Submitted batch job 12541585.
+Waiting for job to complete................done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541585/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541600 on Submitted batch job 12541600.
+Waiting for job to complete......done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541600/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541635 on Submitted batch job 12541635.
+Waiting for job to complete.......done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541635/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541705 on Submitted batch job 12541705.
+Waiting for job to complete...............done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541705/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541709 on Submitted batch job 12541709.
+Waiting for job to complete........done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541709/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541714 on Submitted batch job 12541714.
+Waiting for job to complete......done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541714/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541720 on Submitted batch job 12541720.
+Waiting for job to complete...............done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541720/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541733 on Submitted batch job 12541733.
+Waiting for job to complete.......done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541733/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541736 on Submitted batch job 12541736.
+Waiting for job to complete.......done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541736/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541739 on Submitted batch job 12541739.
+Waiting for job to complete...............done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541739/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12541748 on Submitted batch job 12541748.
+Waiting for job to complete.......done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,12 @@
++ Lmod has detected the following error: The following module(s) are unknown: ""
++ 
++ Please check the spelling or version number. Also try "module spider ..."
++ It is also possible your cache file is out-of-date; it may help to try:
++   $ module --ignore_cache load ""
++ 
++ Also make sure that all modulefiles written in TCL start with the string
++ #%Module
++ 
++ 
++ 
++ /var/spool/slurm/job12541748/slurm_script: line 10: Rscript: command not found
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+- 
+- 
+- 
+- 
+Cleaning up working directory.done.

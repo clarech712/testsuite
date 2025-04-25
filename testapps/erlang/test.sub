@@ -1,0 +1,4 @@
+##SBATCH -N1 -t15
+cd ${SLURM_SUBMIT_DIR:-.}
+erlc hello.erl
+erl -noshell -s hello start -s init stop

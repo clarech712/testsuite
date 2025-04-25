@@ -1,0 +1,4 @@
+##SBATCH -N1 -t15
+cd ${SLURM_SUBMIT_DIR:-.}
+swmm5 example.inp output.out output.rpt 2>&1 | grep -v "Build"
+

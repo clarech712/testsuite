@@ -1,0 +1,33 @@
+#!/bin/bash
+
+# Check if a database name is provided
+if [ -z "$1" ]; then
+    echo "Usage: $0 <database_name>"
+    exit 1
+fi
+
+DATABASE="$1"
+
+# Define the SQL script
+SQL_SCRIPT="
+CREATE TABLE NODE (
+    PARTITION TEXT NOT NULL,
+    NODE TEXT NOT NULL,
+    HAS_GPU BOOLEAN NOT NULL,
+    PRIMARY KEY (PARTITION, NODE)
+);
+
+CREATE TABLE MODULE (
+    MODULE TEXT NOT NULL,
+    VERSION TEXT NOT NULL,
+    GPU_ENABLED BOOLEAN NOT NULL,
+    PRIMARY KEY (MODULE, VERSION)
+);
+"
+
+# Run the SQL script using sqlite3
+echo "$SQL_SCRIPT" | sqlite3 "$DATABASE"
+
+# Confirm execution
+echo "Tables created successfully in $DATABASE"
+

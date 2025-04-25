@@ -1,0 +1,83 @@
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel8'.
+Started job 12542888 on Submitted batch job 12542888.
+Waiting for job to complete............done.
+FAIL matlab - d1cmp040 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,2 @@
++ /var/spool/slurm/job12542888/slurm_script: line 10: matlab: command not found
++ 
+- [?1h=
+-                           < M A T L A B (R) >
+@@ 4,8 @@
++ 
++ 
++ 
++ 
++ 
+-  
+- To get started, type doc.
+- For product information, visit www.mathworks.com.
+-  
+- [?1l>
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel8'.
+Started job 12542925 on Submitted batch job 12542925.
+Waiting for job to complete............done.
+FAIL matlab - d1cmp040 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,2 @@
++ /var/spool/slurm/job12542925/slurm_script: line 10: matlab: command not found
++ 
+- [?1h=
+-                           < M A T L A B (R) >
+@@ 4,8 @@
++ 
++ 
++ 
++ 
++ 
+-  
+- To get started, type doc.
+- For product information, visit www.mathworks.com.
+-  
+- [?1l>
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel8'.
+Started job 12542936 on Submitted batch job 12542936.
+Waiting for job to complete...done.
+FAIL matlab - d1cmp040 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,2 @@
++ /var/spool/slurm/job12542936/slurm_script: line 10: matlab: command not found
++ 
+- [?1h=
+-                           < M A T L A B (R) >
+@@ 4,8 @@
++ 
++ 
++ 
++ 
++ 
+-  
+- To get started, type doc.
+- For product information, visit www.mathworks.com.
+-  
+- [?1l>
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel8'.
+Started job 12542938 on Submitted batch job 12542938.
+Waiting for job to complete......Cleaning up working directory.done.

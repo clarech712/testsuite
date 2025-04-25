@@ -1,0 +1,7 @@
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'muscle' with SLURM options '--constraint=rhel7'.
+Started job 12050963 on Submitted batch job 12050963.
+Waiting for job to complete...done.
+PASS muscle - p1cmp028 
+Cleaning up working directory.done.

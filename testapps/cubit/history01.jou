@@ -1,0 +1,5 @@
+#!python
+reset
+create cylinder height 10 radius 5
+mesh volume 1
+export mesh "mesh.exo" 

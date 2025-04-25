@@ -1,0 +1,17 @@
+Analysis initiated from SIMULIA established products
+Abaqus JOB cae
+Abaqus 3DEXPERIENCE R2016x
+Abaqus License Manager checked out the following licenses:
+Abaqus/Standard checked out 5 tokens from Flexnet server abaqus-lm01.uit.tufts.edu.
+<75 out of 80 licenses remain available>.
+Begin Analysis Input File Processor
+Wed 05 Feb 2025 11:30:01 AM EST
+Run pre
+Wed 05 Feb 2025 11:30:02 AM EST
+Begin MFS->SFS and SIM cleanup
+Wed 05 Feb 2025 11:30:02 AM EST
+Run SMASimUtility
+Wed 05 Feb 2025 11:30:02 AM EST
+End MFS->SFS and SIM cleanup
+Abaqus Error: Analysis Input File Processor exited with an error.
+Abaqus/Analysis exited with errors

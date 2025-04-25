@@ -1,0 +1,4 @@
+##SBATCH -N1 -t15
+cd ${SLURM_SUBMIT_DIR:-.}
+muscle -in sequences.fasta -out aligned_sequences.fasta -clw 2>&1 | grep -v "MUSCLE v" | grep -v "Please cite"
+

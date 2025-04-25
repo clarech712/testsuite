@@ -1,0 +1,1248 @@
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565804 on Submitted batch job 12565804.
+Waiting for job to complete.....done.
+FAIL R - p1cmp029 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565804/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565805 on Submitted batch job 12565805.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565805/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565806 on Submitted batch job 12565806.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565806/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565808 on Submitted batch job 12565808.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565808/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565810 on Submitted batch job 12565810.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565810/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565811 on Submitted batch job 12565811.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565811/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565812 on Submitted batch job 12565812.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565812/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565813 on Submitted batch job 12565813.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565813/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565818 on Submitted batch job 12565818.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565818/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565819 on Submitted batch job 12565819.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565819/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565821 on Submitted batch job 12565821.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565821/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565822 on Submitted batch job 12565822.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565822/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565823 on Submitted batch job 12565823.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565823/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565824 on Submitted batch job 12565824.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565824/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565825 on Submitted batch job 12565825.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565825/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565826 on Submitted batch job 12565826.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565826/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565827 on Submitted batch job 12565827.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565827/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565828 on Submitted batch job 12565828.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565828/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565830 on Submitted batch job 12565830.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565830/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565832 on Submitted batch job 12565832.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565832/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565835 on Submitted batch job 12565835.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565835/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565836 on Submitted batch job 12565836.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565836/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565837 on Submitted batch job 12565837.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565837/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565838 on Submitted batch job 12565838.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565838/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565839 on Submitted batch job 12565839.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565839/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565840 on Submitted batch job 12565840.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565840/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565843 on Submitted batch job 12565843.
+Waiting for job to complete.....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565843/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565845 on Submitted batch job 12565845.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565845/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565846 on Submitted batch job 12565846.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565846/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565850 on Submitted batch job 12565850.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565850/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565852 on Submitted batch job 12565852.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565852/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12565853 on Submitted batch job 12565853.
+Waiting for job to complete....done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,4 @@
++ 
++ 
++ 
++ 
+- png 
+-   3 
+- pdf 
+-   2 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ /var/spool/slurm/job12565853/slurm_script: line 10: Rscript: command not found
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.

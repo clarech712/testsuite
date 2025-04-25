@@ -1,0 +1,4 @@
+##SBATCH -N1 -t15
+cd ${SLURM_SUBMIT_DIR:-.}
+iconv -f UTF-8 -t ISO-8859-1 input.txt
+

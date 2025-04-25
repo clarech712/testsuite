@@ -1,0 +1,14 @@
+
+
+http://www.drive5.com/muscle
+This software is donated to the public domain.
+
+sequences 3 seqs, max length 17, avg  length 16
+00:00:00    11 MB(-1%)  Iter   1   16.67%  K-mer dist pass 100:00:00    11 MB(-1%)  Iter   1  100.00%  K-mer dist pass 1
+00:00:00    11 MB(-1%)  Iter   1   16.67%  K-mer dist pass 200:00:00    11 MB(-1%)  Iter   1  100.00%  K-mer dist pass 2
+00:00:00    11 MB(-1%)  Iter   1   50.00%  Align node       00:00:00    13 MB(-1%)  Iter   1  100.00%  Align node00:00:00    13 MB(-1%)  Iter   1  100.00%  Align node
+00:00:00    13 MB(-1%)  Iter   1   33.33%  Root alignment00:00:00    13 MB(-1%)  Iter   1   66.67%  Root alignment00:00:00    13 MB(-1%)  Iter   1  100.00%  Root alignment00:00:00    13 MB(-1%)  Iter   1  100.00%  Root alignment
+00:00:00    13 MB(-1%)  Iter   2  100.00%  Refine tree   00:00:00    13 MB(-1%)  Iter   2  200.00%  Refine tree00:00:00    13 MB(-1%)  Iter   2  100.00%  Refine tree
+00:00:00    13 MB(-1%)  Iter   2   33.33%  Root alignment00:00:00    13 MB(-1%)  Iter   2   66.67%  Root alignment00:00:00    13 MB(-1%)  Iter   2  100.00%  Root alignment00:00:00    13 MB(-1%)  Iter   2  100.00%  Root alignment
+00:00:00    13 MB(-1%)  Iter   2  100.00%  Root alignment
+00:00:00    13 MB(-1%)  Iter   3   66.67%  Refine biparts00:00:00    13 MB(-1%)  Iter   3  100.00%  Refine biparts00:00:00    13 MB(-1%)  Iter   3  133.33%  Refine biparts00:00:00    13 MB(-1%)  Iter   3  100.00%  Refine biparts

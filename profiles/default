@@ -1,0 +1,39 @@
+#
+# lang
+#
+C java 9 10
+C python 9 10
+#
+# data_sci
+#
+C r-bioinformatics 9 10
+C r-scrnaseq 9 10
+#
+# sci
+#
+C fftw 9 10
+#
+# hpc
+#
+C singularity 9 10
+#
+# viz
+#
+C fontconfig 9 10
+C freetype 9 10
+C fribidi 9 10
+C graphviz 9 10
+C harfbuzz 9 10
+C texlive 9 10
+#
+# dev
+#
+C gcc 9 10
+#
+# file
+#
+C anaconda 9 10
+C curl 9 10
+C proj 9 10
+C rclone 9 10
+C sqlite 9 10

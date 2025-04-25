@@ -1,0 +1,4 @@
+##SBATCH -N1 -t15
+cd ${SLURM_SUBMIT_DIR:-.}
+nosetests --verbose --with-doctest --with-coverage --cover-package=math_operations 2>&1 | grep -v "tests in"
+

@@ -1,0 +1,364 @@
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12565975 on Submitted batch job 12565975.
+Waiting for job to complete..done.
+FAIL matlab - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,2 @@
++ /var/spool/slurm/job12565975/slurm_script: line 10: matlab: command not found
++ 
+- [?1h=
+-                           < M A T L A B (R) >
+@@ 4,8 @@
++ 
++ 
++ 
++ 
++ 
+-  
+- To get started, type doc.
+- For product information, visit www.mathworks.com.
+-  
+- [?1l>
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12565976 on Submitted batch job 12565976.
+Waiting for job to complete..done.
+FAIL matlab - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,2 @@
++ /var/spool/slurm/job12565976/slurm_script: line 10: matlab: command not found
++ 
+- [?1h=
+-                           < M A T L A B (R) >
+@@ 4,8 @@
++ 
++ 
++ 
++ 
++ 
+-  
+- To get started, type doc.
+- For product information, visit www.mathworks.com.
+-  
+- [?1l>
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12565977 on Submitted batch job 12565977.
+Waiting for job to complete..done.
+FAIL matlab - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,2 @@
++ /var/spool/slurm/job12565977/slurm_script: line 10: matlab: command not found
++ 
+- [?1h=
+-                           < M A T L A B (R) >
+@@ 4,8 @@
++ 
++ 
++ 
++ 
++ 
+-  
+- To get started, type doc.
+- For product information, visit www.mathworks.com.
+-  
+- [?1l>
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12565978 on Submitted batch job 12565978.
+Waiting for job to complete..done.
+FAIL matlab - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,2 @@
++ /var/spool/slurm/job12565978/slurm_script: line 10: matlab: command not found
++ 
+- [?1h=
+-                           < M A T L A B (R) >
+@@ 4,8 @@
++ 
++ 
++ 
++ 
++ 
+-  
+- To get started, type doc.
+- For product information, visit www.mathworks.com.
+-  
+- [?1l>
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12565980 on Submitted batch job 12565980.
+Waiting for job to complete..done.
+FAIL matlab - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,2 @@
++ /var/spool/slurm/job12565980/slurm_script: line 10: matlab: command not found
++ 
+- [?1h=
+-                           < M A T L A B (R) >
+@@ 4,8 @@
++ 
++ 
++ 
++ 
++ 
+-  
+- To get started, type doc.
+- For product information, visit www.mathworks.com.
+-  
+- [?1l>
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12565981 on Submitted batch job 12565981.
+Waiting for job to complete..done.
+FAIL matlab - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,2 @@
++ /var/spool/slurm/job12565981/slurm_script: line 10: matlab: command not found
++ 
+- [?1h=
+-                           < M A T L A B (R) >
+@@ 4,8 @@
++ 
++ 
++ 
++ 
++ 
+-  
+- To get started, type doc.
+- For product information, visit www.mathworks.com.
+-  
+- [?1l>
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12565982 on Submitted batch job 12565982.
+Waiting for job to complete..done.
+FAIL matlab - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,2 @@
++ /var/spool/slurm/job12565982/slurm_script: line 10: matlab: command not found
++ 
+- [?1h=
+-                           < M A T L A B (R) >
+@@ 4,8 @@
++ 
++ 
++ 
++ 
++ 
+-  
+- To get started, type doc.
+- For product information, visit www.mathworks.com.
+-  
+- [?1l>
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12565983 on Submitted batch job 12565983.
+Waiting for job to complete..done.
+FAIL matlab - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,2 @@
++ /var/spool/slurm/job12565983/slurm_script: line 10: matlab: command not found
++ 
+- [?1h=
+-                           < M A T L A B (R) >
+@@ 4,8 @@
++ 
++ 
++ 
++ 
++ 
+-  
+- To get started, type doc.
+- For product information, visit www.mathworks.com.
+-  
+- [?1l>
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12565984 on Submitted batch job 12565984.
+Waiting for job to complete..done.
+FAIL matlab - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,2 @@
++ /var/spool/slurm/job12565984/slurm_script: line 10: matlab: command not found
++ 
+- [?1h=
+-                           < M A T L A B (R) >
+@@ 4,8 @@
++ 
++ 
++ 
++ 
++ 
+-  
+- To get started, type doc.
+- For product information, visit www.mathworks.com.
+-  
+- [?1l>
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12565985 on Submitted batch job 12565985.
+Waiting for job to complete...done.
+FAIL matlab - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,2 @@
++ /var/spool/slurm/job12565985/slurm_script: line 10: matlab: command not found
++ 
+- [?1h=
+-                           < M A T L A B (R) >
+@@ 4,8 @@
++ 
++ 
++ 
++ 
++ 
+-  
+- To get started, type doc.
+- For product information, visit www.mathworks.com.
+-  
+- [?1l>
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12565986 on Submitted batch job 12565986.
+Waiting for job to complete..done.
+FAIL matlab - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,2 @@
++ /var/spool/slurm/job12565986/slurm_script: line 10: matlab: command not found
++ 
+- [?1h=
+-                           < M A T L A B (R) >
+@@ 4,8 @@
++ 
++ 
++ 
++ 
++ 
+-  
+- To get started, type doc.
+- For product information, visit www.mathworks.com.
+-  
+- [?1l>
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12565987 on Submitted batch job 12565987.
+Waiting for job to complete..done.
+FAIL matlab - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,2 @@
++ /var/spool/slurm/job12565987/slurm_script: line 10: matlab: command not found
++ 
+- [?1h=
+-                           < M A T L A B (R) >
+@@ 4,8 @@
++ 
++ 
++ 
++ 
++ 
+-  
+- To get started, type doc.
+- For product information, visit www.mathworks.com.
+-  
+- [?1l>
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12565989 on Submitted batch job 12565989.
+Waiting for job to complete..done.
+FAIL matlab - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,2 @@
++ /var/spool/slurm/job12565989/slurm_script: line 10: matlab: command not found
++ 
+- [?1h=
+-                           < M A T L A B (R) >
+@@ 4,8 @@
++ 
++ 
++ 
++ 
++ 
+-  
+- To get started, type doc.
+- For product information, visit www.mathworks.com.
+-  
+- [?1l>
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12565990 on Submitted batch job 12565990.
+Waiting for job to complete..done.
+FAIL matlab - p1cmp043 
+=====================================================
+==================== STDOUT DIFF ====================
+=====================================================
+@@ 1,2 @@
++ /var/spool/slurm/job12565990/slurm_script: line 10: matlab: command not found
++ 
+- [?1h=
+-                           < M A T L A B (R) >
+@@ 4,8 @@
++ 
++ 
++ 
++ 
++ 
+-  
+- To get started, type doc.
+- For product information, visit www.mathworks.com.
+-  
+- [?1l>
+Cleaning up working directory.done.

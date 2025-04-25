@@ -1,0 +1,194 @@
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566068 on Submitted batch job 12566068.
+Waiting for job to complete...done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566070 on Submitted batch job 12566070.
+Waiting for job to complete..done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566071 on Submitted batch job 12566071.
+Waiting for job to complete..done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566072 on Submitted batch job 12566072.
+Waiting for job to complete..done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566073 on Submitted batch job 12566073.
+Waiting for job to complete..done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566075 on Submitted batch job 12566075.
+Waiting for job to complete..done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566077 on Submitted batch job 12566077.
+Waiting for job to complete..done.
+FAIL R - p1cmp043 
+=====================================================
+==================== STDERR DIFF ====================
+=====================================================
+@@ 1,8 @@
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+- During startup - Warning messages:
+- 1: Setting LC_CTYPE failed, using "C" 
+- 2: Setting LC_COLLATE failed, using "C" 
+- 3: Setting LC_TIME failed, using "C" 
+- 4: Setting LC_MESSAGES failed, using "C" 
+- 5: Setting LC_MONETARY failed, using "C" 
+- 6: Setting LC_PAPER failed, using "C" 
+- 7: Setting LC_MEASUREMENT failed, using "C" 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566079 on Submitted batch job 12566079.
+Waiting for job to complete..Cleaning up working directory.done.

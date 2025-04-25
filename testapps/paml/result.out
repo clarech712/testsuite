@@ -1,0 +1,63 @@
+      4     10
+
+Species1                        ATGCTAGCTA 
+Species2                        ATGCGAGCTA 
+Species3                        ATGCTAGGTA 
+Species4                        ATGCTAGGAA 
+
+
+
+Printing out site pattern counts
+
+
+         4          7  P
+
+Species1                        ACCGTTT
+Species2                        ACCGGTT
+Species3                        ACGGTTT
+Species4                        ACGGTAT
+
+
+
+    3    1    1    2    1    1    1
+
+AAML (in paml version 4.8a, July 2014)  example.phy
+Model: Empirical_F for branches,  (jones.dat) ns =   4  ls =  10
+
+
+Frequencies..
+                                    A      R      N      D      C      Q      E      G      H      I      L      K      M      F      P      S      T      W      Y      V
+Species1                       0.30000 0.00000 0.00000 0.00000 0.20000 0.00000 0.00000 0.20000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.30000 0.00000 0.00000 0.00000
+Species2                       0.30000 0.00000 0.00000 0.00000 0.20000 0.00000 0.00000 0.30000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.20000 0.00000 0.00000 0.00000
+Species3                       0.30000 0.00000 0.00000 0.00000 0.10000 0.00000 0.00000 0.30000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.30000 0.00000 0.00000 0.00000
+Species4                       0.40000 0.00000 0.00000 0.00000 0.10000 0.00000 0.00000 0.30000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.20000 0.00000 0.00000 0.00000
+
+Homogeneity statistic: X2 = 0.15702 G = 0.15950 
+
+Average                        0.32500 0.00000 0.00000 0.00000 0.15000 0.00000 0.00000 0.27500 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.25000 0.00000 0.00000 0.00000
+
+# constant sites:      7 (70.00%)
+ln Lmax (unconstrained) = -18.343720
+
+AA distances (raw proportions of different sites)
+
+Species1       
+Species2         0.1000
+Species3         0.1000  0.2000
+Species4         0.2000  0.3000  0.1000
+
+
+TREE #  1:  ((1, 2), (3, 4));   MP score: 3
+This is a rooted tree.  Please check!
+check convergence..
+lnL(ntime:  6  np:  6):           nan           -nan
+   5..6     6..1     6..2     5..7     7..3     7..4  
+     -nan     -nan     -nan     -nan     -nan     -nan
+
+tree length =      -nan
+
+((1: -nan, 2: -nan): -nan, (3: -nan, 4: -nan): -nan);
+
+((Species1: -nan, Species2: -nan): -nan, (Species3: -nan, Species4: -nan): -nan);
+
+Time used:  0:04

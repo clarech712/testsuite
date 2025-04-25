@@ -1,0 +1,4 @@
+##SBATCH -N1 -t15
+cd ${SLURM_SUBMIT_DIR:-.}
+metal meta_analysis.txt 2>&1 | grep -v "MetaAnalysis" | grep -v "This version released"
+

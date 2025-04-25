@@ -1,0 +1,13 @@
+#!/bin/bash
+#SBATCH -o testpilot-python.o%j
+#SBATCH -e testpilot-python.e%j
+#!/bin/bash
+#SBATCH -N1 -t5
+echo $SLURM_JOB_NODELIST | tr '\n' ' '; echo ""
+date +%s > /cluster/tufts/hpc/swtests/testapps_python_login-prod-03_114355/timestamp
+module purge 2>/dev/null
+source /cluster/tufts/hpc/swtests/testapps_python_login-prod-03_114355/test_source.module
+
+cd ${SLURM_SUBMIT_DIR:-.}
+python matrix.py
+date +%s > /cluster/tufts/hpc/swtests/testapps_python_login-prod-03_114355/timestamp2

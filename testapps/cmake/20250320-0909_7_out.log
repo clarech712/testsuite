@@ -1,0 +1,42 @@
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'cmake' with SLURM options '--constraint=rhel7'.
+Started job 12540778 on Submitted batch job 12540778.
+Waiting for job to complete........done.
+PASS cmake - p1cmp029 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'cmake' with SLURM options '--constraint=rhel7'.
+Started job 12540785 on Submitted batch job 12540785.
+Waiting for job to complete..............done.
+PASS cmake - p1cmp029 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'cmake' with SLURM options '--constraint=rhel7'.
+Started job 12540796 on Submitted batch job 12540796.
+Waiting for job to complete....done.
+PASS cmake - p1cmp029 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'cmake' with SLURM options '--constraint=rhel7'.
+Started job 12540805 on Submitted batch job 12540805.
+Waiting for job to complete..........done.
+PASS cmake - p1cmp029 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'cmake' with SLURM options '--constraint=rhel7'.
+Started job 12540816 on Submitted batch job 12540816.
+Waiting for job to complete..............done.
+PASS cmake - p1cmp029 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'cmake' with SLURM options '--constraint=rhel7'.
+Started job 12540836 on Submitted batch job 12540836.
+Waiting for job to complete.....done.
+PASS cmake - p1cmp029 
+Cleaning up working directory.done.

@@ -1,0 +1,4 @@
+##SBATCH -N1 -t15
+cd ${SLURM_SUBMIT_DIR:-.}
+cmake . 2>&1 | grep -v "written to" | grep -v "is GNU"
+rm CMakeCache.txt

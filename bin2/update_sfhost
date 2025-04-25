@@ -1,0 +1,11 @@
+#!/bin/bash
+
+module load python/3.10.4
+module load sqlite3
+
+python "$1/update_sfhost.py" "$2" "$2.modified" "$1/testsuite.db" $3
+count=$?
+
+module purge
+
+exit $count

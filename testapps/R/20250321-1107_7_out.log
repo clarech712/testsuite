@@ -1,0 +1,133 @@
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566080 on Submitted batch job 12566080.
+Waiting for job to complete..done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566081 on Submitted batch job 12566081.
+Waiting for job to complete..done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566082 on Submitted batch job 12566082.
+Waiting for job to complete...done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566083 on Submitted batch job 12566083.
+Waiting for job to complete..done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566084 on Submitted batch job 12566084.
+Waiting for job to complete..done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566085 on Submitted batch job 12566085.
+Waiting for job to complete..done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566086 on Submitted batch job 12566086.
+Waiting for job to complete..done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566087 on Submitted batch job 12566087.
+Waiting for job to complete..done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566088 on Submitted batch job 12566088.
+Waiting for job to complete..done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566090 on Submitted batch job 12566090.
+Waiting for job to complete..done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566092 on Submitted batch job 12566092.
+Waiting for job to complete...done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566094 on Submitted batch job 12566094.
+Waiting for job to complete...done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566096 on Submitted batch job 12566096.
+Waiting for job to complete..done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566097 on Submitted batch job 12566097.
+Waiting for job to complete..done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566098 on Submitted batch job 12566098.
+Waiting for job to complete..done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566099 on Submitted batch job 12566099.
+Waiting for job to complete...done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566101 on Submitted batch job 12566101.
+Waiting for job to complete..done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566102 on Submitted batch job 12566102.
+Waiting for job to complete...done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'R' with SLURM options '--constraint=rhel7'.
+Started job 12566103 on Submitted batch job 12566103.
+Waiting for job to complete..done.
+PASS R - p1cmp043 
+Cleaning up working directory.done.

@@ -1,0 +1,12 @@
+#begin_module_parse#
+TESTPILOT_COMPILER='gcc'
+TESTPILOT_MPC='mpc'
+TESTPILOT_MPFR='mpfr'
+TESTPILOT_GMP='gmp'
+#end_module_parse#
+
+module --force purge 2>/dev/null
+module load ${TESTPILOT_COMPILER} > /dev/null 2>&1
+module load ${TESTPILOT_MPC} > /dev/null 2>&1
+module load ${TESTPILOT_MPFR} > /dev/null 2>&1
+module load ${TESTPILOT_GMP} > /dev/null 2>&1

@@ -1,0 +1,31 @@
+#!/bin/bash
+
+# Check if the correct number of arguments is provided
+if [ "$#" -ne 2 ]; then
+    echo "Usage: $0 <profile> <rhel_version>"
+    exit 1
+fi
+
+# Assign arguments to variables
+profile="$1"
+rhel_version="$2"
+
+# Construct the path to the profile file
+profile_path="../profiles/$profile"
+
+# Check if the profile file exists
+if [ ! -f "$profile_path" ]; then
+    echo "Error: Profile file '$profile_path' not found."
+    exit 1
+fi
+
+# Parse the profile file and extract module names
+while IFS= read -r line; do
+    # Check if the line starts with 'C '
+    if [[ "$line" =~ ^C\ ([a-zA-Z0-9-]+) ]]; then
+        module_name="${BASH_REMATCH[1]}"
+        # Run the testapp_forall command with the module name and RHEL version
+        ./testapp_forall "$module_name" "$rhel_version"
+    fi
+done < "$profile_path"
+

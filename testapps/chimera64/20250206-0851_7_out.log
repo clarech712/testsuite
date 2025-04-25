@@ -1,0 +1,7 @@
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'chimera64' with SLURM options '--constraint=rhel7'.
+Started job 11468434 on Submitted batch job 11468434.
+Waiting for job to complete...done.
+PASS chimera64 - p1cmp045 
+Cleaning up working directory.done.

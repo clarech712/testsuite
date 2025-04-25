@@ -1,0 +1,7 @@
+#!/bin/bash
+
+module load python/3.10.4
+
+python3 $1/repeat_file.py $2 $3
+
+module purge

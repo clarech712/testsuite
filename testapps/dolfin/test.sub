@@ -1,0 +1,4 @@
+##SBATCH -N1 -t15
+cd ${SLURM_SUBMIT_DIR:-.}
+dolfin-convert cylinder_2d.msh cylinder_2d.xml
+

@@ -1,0 +1,55 @@
+*Heading
+Simple FEA Example - Rectangular Plate under Load
+
+** Material properties
+*Material, name=Steel
+*Elastic
+210000, 0.3
+
+** Section definition
+*Solid Section, material=Steel, elset=AllElements
+1.0
+
+** Part definition - Rectangular Plate
+*Part, name=Plate
+*Node
+1, 0.0, 0.0, 0.0
+2, 10.0, 0.0, 0.0
+3, 10.0, 5.0, 0.0
+4, 0.0, 5.0, 0.0
+5, 5.0, 2.5, 0.0
+
+*Element, type=CPS4
+1, 1, 2, 3, 4
+
+*Nset, nset=AllNodes
+1, 2, 3, 4, 5
+
+*Elset, elset=AllElements
+1
+
+** Boundary Conditions - Fix the left edge
+*Boundary
+1, 1, 1
+1, 2, 2
+4, 1, 1
+4, 2, 2
+
+** Loading - Apply force on right edge
+*Cload
+2, 2, -1000
+3, 2, -1000
+
+** Step Definition
+*Step, name=LoadStep, nlgeom=NO
+*Static
+1.0, 1.0, 1e-5, 1.0
+
+*Output, field
+*Node Output
+U
+*Element Output
+S, E
+
+*End Step
+

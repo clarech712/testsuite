@@ -1,0 +1,49 @@
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'netcdf' with SLURM options '--constraint=rhel7'.
+Started job 12052212 on Submitted batch job 12052212.
+Waiting for job to complete........done.
+PASS netcdf - p1cmp028 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'netcdf' with SLURM options '--constraint=rhel7'.
+Started job 12052225 on Submitted batch job 12052225.
+Waiting for job to complete..............done.
+PASS netcdf - p1cmp028 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'netcdf' with SLURM options '--constraint=rhel7'.
+Started job 12052239 on Submitted batch job 12052239.
+Waiting for job to complete....done.
+PASS netcdf - p1cmp028 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'netcdf' with SLURM options '--constraint=rhel7'.
+Started job 12052246 on Submitted batch job 12052246.
+Waiting for job to complete...........done.
+PASS netcdf - p1cmp028 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'netcdf' with SLURM options '--constraint=rhel7'.
+Started job 12052261 on Submitted batch job 12052261.
+Waiting for job to complete...............done.
+PASS netcdf - p1cmp028 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'netcdf' with SLURM options '--constraint=rhel7'.
+Started job 12052271 on Submitted batch job 12052271.
+Waiting for job to complete...done.
+PASS netcdf - p1cmp028 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'netcdf' with SLURM options '--constraint=rhel7'.
+Started job 12052276 on Submitted batch job 12052276.
+Waiting for job to complete...........done.
+PASS netcdf - p1cmp028 
+Cleaning up working directory.done.

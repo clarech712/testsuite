@@ -1,0 +1,49 @@
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12566056 on Submitted batch job 12566056.
+Waiting for job to complete.......done.
+PASS matlab - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12566058 on Submitted batch job 12566058.
+Waiting for job to complete......done.
+PASS matlab - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12566059 on Submitted batch job 12566059.
+Waiting for job to complete......done.
+PASS matlab - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12566060 on Submitted batch job 12566060.
+Waiting for job to complete.......done.
+PASS matlab - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12566061 on Submitted batch job 12566061.
+Waiting for job to complete......done.
+PASS matlab - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12566064 on Submitted batch job 12566064.
+Waiting for job to complete......done.
+PASS matlab - p1cmp043 
+Cleaning up working directory.done.
+CLUSTER_SCRATCH is not available, running tests from /cluster/tufts/hpc/swtests directory
+
+Starting job test 'matlab' with SLURM options '--constraint=rhel7'.
+Started job 12566065 on Submitted batch job 12566065.
+Waiting for job to complete.......done.
+PASS matlab - p1cmp043 
+Cleaning up working directory.done.

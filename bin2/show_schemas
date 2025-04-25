@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# Check if the database file is provided as an argument
+if [ $# -ne 1 ]; then
+    echo "Usage: $0 <database_file>"
+    exit 1
+fi
+
+DB_FILE=$1
+
+# Check if the provided file exists and is an SQLite database
+if [ ! -f "$DB_FILE" ]; then
+    echo "Error: File '$DB_FILE' does not exist."
+    exit 1
+fi
+
+# List all tables in the database and iterate over them
+TABLES=$(sqlite3 "$DB_FILE" ".tables")
+
+# Loop through each table and display its schema
+for TABLE in $TABLES; do
+    echo "Schema for table: $TABLE"
+    sqlite3 "$DB_FILE" ".schema $TABLE"
+    echo ""
+done
+

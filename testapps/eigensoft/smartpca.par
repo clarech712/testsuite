@@ -1,0 +1,8 @@
+genotypename: test.geno
+snpname: test.snp
+indivname: test.ind
+evecoutname: test.evec
+evaloutname: test.eval
+numoutlieriter: 5
+numoutevec: 10
+

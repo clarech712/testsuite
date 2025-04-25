@@ -1,0 +1,6 @@
+Maple initialization error, No such feature exists.
+Feature:       Maple2021
+License path:  /opt/shared/maple/2021/license/license.dat:
+FlexNet Licensing error:-5,412
+For further information, refer to the FlexNet Licensing documentation,
+available at "www.flexerasoftware.com".

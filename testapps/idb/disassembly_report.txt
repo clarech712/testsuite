@@ -1,0 +1,6 @@
+An error has occurred. See the log file
+/cluster/home/kchura01/.idb_13.0_linux_intel64_app/configuration/1739459582978.log.
+There were problems starting IDB.
+This usually indicates Java Runtime or library compatibility issues.
+Please check your environment.
+For details check the log file at /cluster/home/kchura01/.idb_13.0_linux_intel64_app/workspace/.metadata/.log.

@@ -1,0 +1,7 @@
+nose.plugins.cover: ERROR: Coverage not available: unable to import coverage module
+test_add (test_math_operations.TestMathOperations) ... ok
+test_subtract (test_math_operations.TestMathOperations) ... ok
+
+----------------------------------------------------------------------
+
+OK

@@ -1,0 +1,8 @@
+#begin_module_parse#
+TESTPILOT_GMP='gmp'
+TESTPILOT_GHC='ghc'
+#end_module_parse#
+
+module purge 2>/dev/null
+module load ${TESTPILOT_GMP} > /dev/null 2>&1
+module load ${TESTPILOT_GHC} > /dev/null 2>&1

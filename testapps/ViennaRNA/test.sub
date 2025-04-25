@@ -1,0 +1,4 @@
+##SBATCH -N1 -t15
+cd ${SLURM_SUBMIT_DIR:-.}
+RNAfold < rna_sequence.txt > rna_structure.txt
+

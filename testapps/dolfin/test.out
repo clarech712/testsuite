@@ -1,0 +1,6 @@
+Converting from Gmsh format (.msh, .gmsh) to DOLFIN XML format
+Expecting 1649 vertices
+Found all vertices
+Expecting 3078 cells
+Found all cells
+Conversion done

@@ -1,0 +1,19 @@
+parameter file: params.txt
+genotypename: test.ped
+snpname: test.map
+indivname: test.ped
+outputformat: EIGENSTRAT
+genotypeoutname: test.geno
+snpoutname: test.snp
+indivoutname: test.ind
+genetic distance set from physical distance
+FAM001:ID001 ignored
+FAM001:ID002 ignored
+FAM002:ID003 ignored
+FAM002:ID004 ignored
+all individuals set ignore.  Likely input problem (col 6)
+resetting all individual...
+genotype file processed
+numvalidind:      4  maxmiss:  4000
+eigenstrat output
+##end of convertf run

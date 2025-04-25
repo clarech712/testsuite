@@ -1,0 +1,2 @@
+/cluster/tufts/hpc/swtests/testsuite-main/testapps/cmake/CMakeFiles/edit_cache.dir
+/cluster/tufts/hpc/swtests/testsuite-main/testapps/cmake/CMakeFiles/rebuild_cache.dir
