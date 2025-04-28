@@ -11,11 +11,16 @@ is easier to interpret. Ideally all the tests in testsuite should `PASS` but som
 │   ├── testapp               # Single module default version
 │   ├── testapp_forall        # Single module all versions (non-optimized)
 │   ├── testsuite             # All modules default version
-│   ├── testsuite_forall      # All modules all versions (non-optimized)
-│   └── verify_output         # Used by the above
+│   └── testsuite_forall      # All modules all versions (non-optimized)
 ├── bin2/                     # Binaries during restructuring
-│   ├── ...
-│   └── ... # ...
+│   ├── create_tables         # Init of testsuite.db (in case things get messed up badly)
+│   ├── show_schemas          # Show schemas in provided database (try it with testsuite.db!)
+│   ├── sources               # Locations from which to update NODE table
+│   ├── testapp               # Single module all versions (optimized)
+│   ├── testsuite             # All modules all versions (optimized)
+│   ├── testsuite.db          # Stores MODULE and NODE tables
+│   ├── update_module         # Updates MODULE table
+│   └── update_node           # Updates NODE table
 ├── profiles/                 # Specification of groups of modules for testing
 │   ├── Archive/              # Profiles irrelevant to Tufts cluster
 │   ├── split.py              # Generates individual profiles from 'all' profile
