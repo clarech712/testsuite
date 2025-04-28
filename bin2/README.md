@@ -20,7 +20,7 @@ There are eponymous `.py` files that do the heavy lifting. The shell scripts tak
 
 My last few days were spent trying to minimize the difference between running `./testsuite all` from [bin](../bin) and `bin2` respectively, i.e. all modules default version versus all modules all versions. See [diff.txt](diff.txt) for an incomplete but potentially helpful summary.
 
-Also see [bio.txt](bio.txt) for a list of the file formats that would be required for tests for the (bio) modules on rhel6.
+Also see [bio.txt](bio.txt) for a list of the file formats that would be required for tests for the bio-related modules on rhel6.
 
 ### `create_tables`
 
