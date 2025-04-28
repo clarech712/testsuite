@@ -80,7 +80,7 @@ To avoid data duplication, we can have multiple tables.
 
   - `VERSION` (string)
 
-  - `GPU_ENABLED` (boolean) — Is this version of the module GPU enabled?
+  - `GPU_ENABLED` (boolean) — *Is this version of the module GPU enabled?*
 
 + `NODE` (primary key `PARTITION`,`NODE`)
 
@@ -88,7 +88,7 @@ To avoid data duplication, we can have multiple tables.
 
   - `NODE` (string)
 
-  - `HAS_GPU` (boolean) — Does this node have a GPU available?
+  - `HAS_GPU` (boolean) — *Does this node have a GPU available?*
 
 + `TEST` (primary key `TEST_DATE`,`MODULE`,`VERSION`,`PARTITION`,`NODE`,`GPU_USED`)
 
@@ -102,7 +102,7 @@ To avoid data duplication, we can have multiple tables.
 
   - `NODE` (string)
 
-  - `GPU_USED` (boolean) — Was a GPU used for this test?
+  - `GPU_USED` (boolean) — *Was a GPU used for this test?*
 
   - `PASS` (boolean)
 
