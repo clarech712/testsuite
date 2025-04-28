@@ -4,7 +4,7 @@ This is a version of the binaries I started working on after realising that the 
 
 ## Programs
 
-`testapp` and `testsuite` follow the same logic as under [bin](../bin) except with different effects. To see the core of the changes made, you can `nano testapp` and then `Ctrl+W`, enter 'KLARA', and hit Enter. I have left behind most of the debugging printing.
+`testapp` and `testsuite` follow the same logic as under [bin](../bin) except with different effects. To see the core of the changes made, you can `nano testapp` and then `Ctrl+W`, enter `KLARA`, and hit Enter (WSL parlance). I have left behind most of the debugging printing.
 
 + [create_tables](#create_tables): Init of `testsuite.db` (in case things get messed up badly)
 
