@@ -1,5 +1,41 @@
 # bin2
 
+This is a version of the binaries I started working on after realising that the 'wrapper' version was not going to be good enough.
+
+## Programs
+
++ [create_tables](#create_tables): Init of `testsuite.db` (in case things get messed up badly)
+
++ [show_schemas](#show_schemas): Show schemas in provided database (try it with `testsuite.db`)
+
++ [update_module](#update_module): Updates `MODULE` table based on paths in `sources`
+
++ [update_node](#update_node): Updates `NODE` table
+
+### `create_tables`
+
+```
+Usage: create_tables <database_name>
+```
+
+### `show_schemas`
+
+```
+Usage: show_schemas <database_name>
+```
+
+### `update_module`
+
+```
+Usage: update_module <source_path>
+```
+
+### `update_node`
+
+```
+Usage: update_node
+```
+
 ## *What all do we want to test?*
 
 + `testapp`
