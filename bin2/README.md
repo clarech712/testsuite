@@ -16,6 +16,10 @@ This is a version of the binaries I started working on after realising that the 
 
 There are eponymous `.py` files that do the heavy lifting. The shell scripts take care of the `module load`ing and `module purge`ing around that.
 
+### Current state of `testapp` and `testsuite`
+
+My last few days were spent trying to minimize the difference between running `./testsuite all` from [bin](../bin) and `bin2` respectively, i.e. all modules default version versus all modules all versions. See [diff.txt](diff.txt) for an incomplete but potentially helpful summary.
+
 ### `create_tables`
 
 ```
