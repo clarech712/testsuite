@@ -1,0 +1,25 @@
+Tests for the (bio) modules on rhel6 would require files of the following formats:
+.bam
+.bcl
+.cram
+.dat
+.fa
+.fasta
+.fastq
+.fq
+.gff
+.hmm
+.lmp
+.mol
+.nii
+.param
+.pdb
+.ped
+.psf
+.qza
+.sam
+.tbl
+.tfa
+.udb
+.vcf
+.xml
