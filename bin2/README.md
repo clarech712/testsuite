@@ -106,7 +106,7 @@ To avoid data duplication, we can have multiple tables.
 
   - `PASS` (boolean)
 
-  - `CAUSE` (string) — Why did the test fail?
+  - `CAUSE` (string) — *Why did the test fail?*
 
     + Categorisation of failures encountered so far
 
