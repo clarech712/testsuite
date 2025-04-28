@@ -1,4 +1,3 @@
-Tests for the (bio) modules on rhel6 would require files of the following formats:
 .bam
 .bcl
 .cram
