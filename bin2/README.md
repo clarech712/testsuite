@@ -1,6 +1,6 @@
 # bin2
 
-This is a version of the binaries I started working on after realising that the 'wrapper' version was not going to be good enough.
+This is a version of the binaries I started working on after realising that the 'wrapper' approach was not going to be good enough. I have kept the folders separately both because [bin](../bin) contains some logging infrastructure that `bin2` does not and because having the folders separately has allowed me to efficiently dif outputs for single- and all-versions without things getting too messy. Optimally, this would ultimately be a single `bin` folder, of course.
 
 ## Programs
 
@@ -11,6 +11,8 @@ This is a version of the binaries I started working on after realising that the 
 + [update_module](#update_module): Updates `MODULE` table based on paths in `sources`
 
 + [update_node](#update_node): Updates `NODE` table
+
+Note that there are eponymous `.py` files that do the heavy lifting. The shell scripts take care of the `module load`ing and `module purge`ing around that.
 
 ### `create_tables`
 
