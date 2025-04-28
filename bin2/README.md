@@ -82,7 +82,7 @@ To avoid data duplication, we can have multiple tables.
 
   - `GPU_ENABLED` (boolean) — Is this version of the module GPU enabled?
 
-+ `NODE` (primary key PARTITION,NODE)
++ `NODE` (primary key `PARTITION`,`NODE`)
 
   - `PARTITION` (string)
 
