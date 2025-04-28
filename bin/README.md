@@ -1,6 +1,6 @@
 # `bin`
 
-This is the original version of the binaries. The `testapp` and `testsuite` programs listed below are as initially provided to me, except for some minor modifications of full paths to relative paths to ensure portability. While the `testapp_forall` and `testsuite_forall` programs fulfil the vision of testing every single version available for a given module rather than just the default one (where defaultness is a setting on the cluster rather than in this framework), they rely on `module av` for parsing these available versions, thus adding significant computational overhead. However, the scripts could still be scavenged for how they facilitate logging, something that the binaries in [bin2](../bin2) do not yet do.
+This is the original version of the binaries. The `testapp` and `testsuite` programs listed below are as initially provided to me, except for some minor modifications of full paths to relative paths to ensure portability. While the `testapp_forall` and `testsuite_forall` programs fulfil the vision of testing every single version available for a given module rather than just the default one, where defaultness is a setting on the cluster rather than in this framework, they rely on `module av` for parsing these available versions, thus adding significant computational overhead. However, the scripts could still be scavenged for how they facilitate logging, something that the binaries in [bin2](../bin2) do not yet do.
 
 ## Programs
 
