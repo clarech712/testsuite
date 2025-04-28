@@ -1,4 +1,4 @@
-# bin2
+# `bin2`
 
 This is a version of the binaries I started working on after realising that the 'wrapper' approach was inefficient. I have kept the folders separately both because [bin](../bin) contains some logging infrastructure that `bin2` does not and because having the folders separately has allowed me to dif outputs for single- and all-versions without things getting too messy. Optimally, this would ultimately be a single `bin` folder, of course.
 
